@@ -4,8 +4,6 @@ I decided to add ActiveAdmin to my Beer Tracking API application. The dashboard 
 
 I spent most of my time working on the homepage and implementing the Chartkick gem to enable charts. I was able to get perform limited queries to create basic charts, but I'd like to learn more about how querying / sorting data works with DSL in the active_admin.rb file.
 
-## Screenshots
-
 ## Homepage
 ![screen shot 2018-06-12 at 10 38 29 pm](https://user-images.githubusercontent.com/1817873/41327720-8176b8f0-6e92-11e8-9de6-8b1c436922e3.png)
 
