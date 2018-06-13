@@ -13,7 +13,7 @@ I spent most of my time working on the homepage and implementing the Chartkick g
 ## Note Page
 ![screen shot 2018-06-12 at 10 38 53 pm](https://user-images.githubusercontent.com/1817873/41327718-812068d8-6e92-11e8-8f67-d810b4996333.png)
 
-
+## Beer Tracker Repo: https://github.com/momentum-cohort-2018-04/rails-tracker-ppreyer
 
 
 # Adding an Admin Dashboard
